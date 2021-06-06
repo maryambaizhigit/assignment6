@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="" width="500px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/1200px-RMS_Titanic_3.jpg" width="500px">
 </p>
 
 ## Competition Description
@@ -16,11 +16,6 @@ In this challenge, we ask you to complete the analysis of what sorts of people w
 ## Overview
 Code in the repo is for the one who just begin with kaggle's Titanic competition.This basically explains all the basic concept ,
 How to approach the any competition over kaggle and how to start with it. 
-
-
-<p align="center"> 
-<img src="https://cdn2.iconfinder.com/data/icons/greenline/512/camera-512.png" width='50px' height='50px'>
-</p>
 
 
 ## Dependencies 
